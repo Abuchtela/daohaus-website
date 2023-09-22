@@ -12,9 +12,9 @@
     "clear": "docusaurus clear"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.ff31de0ff",
-    "@docusaurus/plugin-google-analytics": "^2.0.0-beta.ff31de0ff",
-    "@docusaurus/preset-classic": "^2.0.0-beta.ff31de0ff",
+    "@docusaurus/core": "^2.3.1",
+    "@docusaurus/plugin-google-analytics": "^2.3.1",
+    "@docusaurus/preset-classic": "^2.3.1",
     "@mdx-js/react": "^1.6.21",
     "antd": "^4.15.1",
     "clsx": "^1.1.1",
